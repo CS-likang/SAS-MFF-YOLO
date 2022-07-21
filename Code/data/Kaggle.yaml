@@ -1,0 +1,8 @@
+train: ../Kaggle/images/train/
+val: ../Kaggle/images/test/
+
+# number of classes
+nc: 1
+
+# class names
+names: ["Pneumonia"]
